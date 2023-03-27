@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.main {
+  background-color: #93c5fd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.sub {
+  width: 40%;
+  height: 40%;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+.opt {
+  width: 150px;
+  height: 30px;
+  padding: 3px;
+}
+.ma {
+  margin-left: 10px;
+}
+.A {
+  display: flex;
+  flex-direction: row;
+  width: 55%;
+}
